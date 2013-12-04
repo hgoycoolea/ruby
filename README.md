@@ -1,7 +1,7 @@
 ruby
 ====
 
-Ruby sample code
+Ruby sample code for connecting to Adyen
 
 For a complete example, check out:
 
